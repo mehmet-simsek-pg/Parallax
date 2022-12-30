@@ -1,0 +1,192 @@
+* {
+  margin: 0;
+}
+
+.block1 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  background-image: url("img/bg.jpg");
+  background-attachment: fixed;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+
+  height: 100vh;
+}
+
+.block1 h5 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+
+  width: 15rem;
+  height: 0.5rem;
+
+  text-align: center;
+  font-size: 2rem;
+
+  background-color: rgb(93, 91, 91);
+  color: white;
+
+  outline-width: 4px;
+  outline-style: inset;
+  outline-offset: 2px;
+  outline-color: purple;
+
+  border-top-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+}
+
+.block2 {
+  padding: 2rem;
+  background-color: rgb(253, 249, 249);
+  font-size: 1.5rem;
+  text-align: center;
+}
+
+.block3 {
+  background-image: url("img/bg2.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.block3 img {
+  width: 30vw;
+}
+
+.block4 {
+  text-align: center;
+  font-size: 1.5rem;
+  background-color: rgb(94, 91, 91);
+  color: white;
+}
+
+.block5 {
+  background-image: url("img/bg3.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+
+  height: 100vh;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.block5 p {
+  background-color: rgb(77, 77, 77);
+  color: white;
+
+  font-size: 1.5rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  width: 30rem;
+  height: 2rem;
+  padding-top: 6px;
+  padding-bottom: 6px;
+
+  text-align: center;
+
+  outline-style: inset;
+  outline-color: purple;
+  outline-offset: 3px;
+  outline-width: 4px;
+}
+
+.block6 {
+  text-align: center;
+  font-size: larger;
+  background-color: white;
+}
+
+.block7 {
+  background-image: url("img/bg4.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.block7 span {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 30rem;
+  height: 4rem;
+  font-size: 3.5rem;
+  background-color: rgb(77, 77, 77);
+  color: white;
+  padding: 0.5rem 0.5rem;
+  outline-style: inset;
+  outline-color: rgb(166, 77, 166);
+  outline-width: 8px;
+  outline-offset: 5px;
+  border-top-left-radius: 15px;
+  border-bottom-right-radius: 15px;
+}
+
+.block8 {
+  text-align: center;
+  font-size: 1rem;
+  color: white;
+  background-color: rgb(40, 46, 52);
+  height: 10rem;
+  padding-top: 2rem;
+}
+
+.block9 {
+  background-image: url("img/bg.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+
+  background-position: center;
+  margin-top: -1.2rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.block9 span {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  font-size: 1rem;
+  text-align: center;
+
+  background-color: rgb(77, 77, 77);
+  color: white;
+
+  width: 15rem;
+  height: 0.5rem;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+
+  outline-color: purple;
+  outline-width: 4px;
+  outline-offset: 4px;
+  outline-style: inset;
+
+  border-top-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+}
